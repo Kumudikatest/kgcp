@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "aws-sdk": "2.817.0",
+        "googleapis": "29.0.0",
+        "mysql": "2.18.1"
+    }
+}
